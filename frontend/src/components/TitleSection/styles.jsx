@@ -5,4 +5,5 @@ export const Title = styled.h1`
   font-size: 21px;
   line-height: 24px;
   font-weight: 400;
+  color: #333333;
 `;
